@@ -1,6 +1,5 @@
 ﻿README for the Freezerworks Interface Module (FIM)
 
-The MITRE Corporation 2010
 
 Installation:
 1. Unzip entire contents of the zipfile to an empty folder.
